@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <div>
   <img align=top src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
   <img align=top src="https://img.icons8.com/color/30/000000/spring-logo.png"/>
 </div>
+-->
+
