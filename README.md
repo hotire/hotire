@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<div>
+  <img align=top src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img align=top src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+</div>
