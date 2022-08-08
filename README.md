@@ -3,6 +3,7 @@
 - 2017.01 ~ 2018.02 GS ITM 🐟    
 - 2018.07 ~ 2019.11 Kakao 🐤         
 - 2019.12 ~ LINE+ 🦖  
+- 2022.09 ~ Toss Bank 🐅
 
 📫  How to reach me: <gngh0101@gmail.com>
 
